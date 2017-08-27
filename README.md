@@ -1,4 +1,7 @@
-# b-Search is AstroGrep fork and is a Microsoft Windows grep utility. Grep is a UNIX command-line program which searches within files for keywords. AstroGrep supports regular expressions, versatile printing options, stores most recently used paths and has a "context" feature which is very nice for looking at source code.
+# b-Search 
+Is AstroGrep fork and is a Microsoft Windows grep utility. Grep is a UNIX command-line program which searches within files for keywords. AstroGrep supports regular expressions, versatile printing options, stores most recently used paths and has a "context" feature which is very nice for looking at source code.
+
+The program is currently being developed in Microsoft C# using .Net v4.0.
 
 Included Features
 - Regular expressions (Uses the standard Microsoft .Net Regular Expressions: Quick Reference)
