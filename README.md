@@ -3,7 +3,7 @@ Is AstroGrep fork and is a Microsoft Windows grep utility. Grep is a UNIX comman
 
 The program is currently being developed in Microsoft C# using .Net v4.0.
 
-Included Features
+# Included Features
 - Regular expressions (Uses the standard Microsoft .Net Regular Expressions: Quick Reference)
 - Concurrent multiple file types
 - Recursive directory searching
